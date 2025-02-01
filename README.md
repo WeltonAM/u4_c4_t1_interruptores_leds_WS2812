@@ -48,8 +48,8 @@ Este projeto utiliza a **Raspberry Pi Pico W 2040** para demonstrar o uso de int
    Abra o terminal e clone o repositório com o seguinte comando:
 
    ```bash
-   git clone https://github.com/weltonam/u4_c4_t1_interruptores_leds_WS2812.git
-   cd nome-do-repositorio
+   git clone https://github.com/WeltonAM/u4_c4_t1_interruptores_leds_WS2812.git
+   cd u4_c4_t1_interruptores_leds_WS2812
 
 2. **Compilar e Rodar o Código no Pico W 2040**:
    - Abra o arquivo `ws2812.c` no VSCode.
