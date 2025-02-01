@@ -62,4 +62,4 @@ Este projeto utiliza a **Raspberry Pi Pico W 2040** para demonstrar o uso de int
 
 ### Vídeo de Demonstração
 
-[![Vídeo de Demonstração](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Vídeo de Demonstração](https://img.shields.io/badge/Assistir-Vídeo-blue)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
